@@ -1,0 +1,10 @@
+{
+  "name": "novasat-calculator",
+  "version": "1.0.0",
+  "description": "Калькулятор видеонаблюдения для Telegram Mini App",
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "server": "cd server && node server.js"
+  }
+}
